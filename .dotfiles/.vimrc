@@ -1,0 +1,11 @@
+set nocompatible
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set number
+set ls=2
+set ruler
+set history=50
+set backspace=indent,eol,start
+set bg=dark
+set showbreak=...
